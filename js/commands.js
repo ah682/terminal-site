@@ -126,7 +126,7 @@ Built With
 help = [
   `<pre class="whitespace-pre-wrap">
   <span class="command">aboutme</span>    
-   <span class="command">↳</span>&nbsp;Diplays Who I am?
+   <span class="command">↳</span>&nbsp;Diplays Who I am.
   <span class="command">social</span>     
    <span class="command">↳</span>&nbsp;Lists social networks.
   <span class="command">skills</span>     
