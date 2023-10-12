@@ -35,11 +35,11 @@ social = [
   "<br>",
   'Twitter        <a href="' +
     twitter +
-    '" target="blank">twitter.com/' +
+    '" target="blank">twitter.com/ah682' +
     "</a>",
   'Linkedin      <a href="' +
     linkedin +
-    '" target="blank">linkedin/https://www.linkedin.com/in/adam-hall-35297a254/' +
+    '" target="blank">https://www.linkedin.com/in/adam-hall-35297a254/' +
     "</a>",
   'Instagram  <a href="' + instagram + '" target="blank">instagram/' + "</a>",
   'Github         <a href="' +
