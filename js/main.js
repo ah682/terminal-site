@@ -114,10 +114,6 @@ function commander(cmd) {
       addLine("Opening GitHub...", "color2", 0);
       newTab(github);
       break;
-    case "sudo":
-      addLine("Oh no, you're not an admin...", "color2", 0);
-      newTab(sudo);
-      break;
     default:
       addLine(
         '<span class="inherit">Command not found. For a list of commands, type <span class="command">\'help\'</span>.</span>',
