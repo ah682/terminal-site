@@ -142,8 +142,6 @@ help = [
    <span class="command">↳</span>&nbsp;View command history.
   <span class="command">help</span>       
    <span class="command">↳</span>&nbsp;Displays this help msg.
-  <span class="command">sudo</span>       
-   <span class="command">↳</span>&nbsp;let's give an intro.
   <span class="command">clear</span>
    <span class="command">↳</span>&nbsp;Clear terminal.</pre><br>`,
 ];
