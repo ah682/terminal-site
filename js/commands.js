@@ -41,7 +41,10 @@ social = [
     linkedin +
     '" target="blank">https://www.linkedin.com/in/adam-hall-35297a254/' +
     "</a>",
-  'Instagram  <a href="' + instagram + '" target="blank">instagram/' + "</a>",
+  'Instagram  <a href="' +
+    instagram +
+    '" target="blank">instagram.com/ah682/' +
+    "</a>",
   'Github         <a href="' +
     github +
     '" target="blank">https://github.com/ah682' +
