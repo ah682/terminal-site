@@ -140,7 +140,6 @@ Built With
   "<br>",
   `<pre class="indent-8 whitespace-pre-wrap">Calculator developed with React.js
 
-Project is live at <a href="https://github.com/ah682/react-calculator" target="blank">https://github.com/ah682/react-calculator/</a>
 Information
 Web-app to showcase the programming of a calculator
 
