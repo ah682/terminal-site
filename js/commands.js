@@ -10,10 +10,10 @@ aboutme = [
   "<br>",
   "<span class='underline'>I'm Ava.</span>",
   "<br>",
-  "<li>🔭 I’m currently a student at the University of Central Lancashire</li>",
+  "<li>🔭 I’m currently a Graduate Computer Science Student</li>",
   "<li>🌱 My field of intetest is</li>",
   `<pre class="whitespace-pre-wrap">
-        - Fullstack Development</pre>`,
+        - Frontend Development, Backend Development and Fullstack Development</pre>`,
   `<li><pre class="whitespace-pre-wrap">👯 I would love to work with anyone who wants to build a 
    professional website for their business or even a personal 
    website to showcase their portfolio.
@@ -72,58 +72,103 @@ expertise = [
 ];
 
 projects = [
+  `<a href="https://www.beanbagbazaar.co.uk/" target="blank"><span class='underline'>Bean Bag Bazaar</span></a>`,
   "<br>",
-  `<a href="https://github.com/ah682/react-calculator" target="blank"><span class='underline'>React Calculator</span>`,
+  `<pre class="indent-8 whitespace-pre-wrap">E-commerce site to purchase bean bags, one of the largest sellers of bean bags in the UK
+
+Built With
+  * CSS
+  * React & JSX
+  * PHP
+  * HTML5
+</pre><br>`,
+
+  `<a href="https://tron.network/" target="blank"><span class='underline'>Tron Network Crypto Currency Site</span></a>`,
+  "<br>",
+  `<pre class="indent-8 whitespace-pre-wrap">Site to showcase the TRON Decentralized Crypto Currency
+Information
+Tron is a blockchain-based decentralized digital platform with its own cryptocurrency, called Tronix or TRX. Founded in 2017 by a Singapore non-profit organization, the Tron Foundation, Tron aims to host a global entertainment system for the cost-effective sharing of digital content. Site was developed with wireframe and a large team of developers.
+
+Built With
+  * CSS
+  * React & JSX
+  * PHP
+  * HTML5
+</pre><br>`,
+
+  `<a href="https://www.petscorner.co.uk/dogs/toys" target="blank"><span class='underline'>Pets Corner E-Commerce Site</span></a>`,
+  "<br>",
+  `<pre class="indent-8 whitespace-pre-wrap">E-commerce site to purchase dog toys and food, one of the largest chain stores in the UK for dog-related products
+
+Built With
+  * CSS
+  * React & JSX
+  * HTML5
+  * Liquid
+  * PHP
+</pre><br>`,
+
+  `<a href="https://harajukutrendsetters.com" target="blank"><span class='underline'>Clothing E-Commerce Store</span></a>`,
+  "<br>",
+  `<pre class="indent-8 whitespace-pre-wrap">Site to purchase Japanese and 'anime' style clothing
+Information
+A detailed wireframe to outline the website/application structure and functionality. Once approved, a team of frontend and backend developers was assembled. Frontend developers created a user-friendly interface using technologies like HTML, CSS, and JavaScript, while backend developers built a robust server-side architecture with Node.js and managed databases like MySQL or MongoDB.
+
+After setting up the core infrastructure, products were scouted to source and sell, focusing on market demand, supplier reliability, and cost-effectiveness. We ensured quality and negotiated procurement terms, leading to the successful integration of sourced products into the platform.
+
+Built With
+  * CSS
+  * JavaScript
+  * HTML5
+  * JSON
+</pre><br>`,
+
+  `<a href="https://ucworldlink.com" target="blank"><span class='underline'>UC Worldlink Company Site</span></a>`,
+  "<br>",
+  `<pre class="indent-8 whitespace-pre-wrap">E-commerce and company site to purchase electronics, wholesale items, and DIY materials
+Information
+We first created a detailed wireframe to outline the website's structure and functionality. Following this, we developed the website using CSS for styling, JavaScript for interactivity, HTML5 for structuring content, and JSON for data exchange. This approach ensured a seamless, visually appealing, and interactive user experience. The site showcases the UC Worldlink brand and the option to purchase products from them.
+
+Built With
+  * CSS
+  * JavaScript
+  * HTML5
+  * JSON
+</pre><br>`,
+
+  `<a href="https://github.com/ah682/react-calculator" target="blank"><span class='underline'>React Calculator</span></a>`,
   "<br>",
   `<pre class="indent-8 whitespace-pre-wrap">Calculator developed with React.js
 
 Project is live at <a href="https://github.com/ah682/react-calculator" target="blank">https://github.com/ah682/react-calculator/</a>
+Information
+Web-app to showcase the programming of a calculator
 
 Built With
+  * React.js
+  * CSS
+  * HTML5
+</pre><br>`,
 
-    *React.js
-    *CSS
-    *HTML5
-`,
-
+  `<a href="https://github.com/ah682/word-filter" target="blank"><span class='underline'>Word Filter</span></a>`,
   "<br>",
-
-  `<a href="https://github.com/ah682/word-filter" target="blank"><span class='underline'>Word Filter</span>`,
-  "<br>",
-  `<pre class="indent-8 whitespace-pre-wrap"> Filters/censors certain words target="blank"><span class='underline'>
+  `<pre class="indent-8 whitespace-pre-wrap">Filters/censors certain words
+Information
+Student project to remove unwanted words from a database.
 
 Built With
+  * C++
+</pre><br>`,
 
-    *C++
-`,
-
-  "<br>",
-
-  `<a href="https://github.com/ah682/hide-error" target="blank"><span class='underline'>Hide Error</span>`,
+  `<a href="https://github.com/ah682/hide-error" target="blank"><span class='underline'>Hide Error</span></a>`,
   "<br>",
   `<pre class="indent-8 whitespace-pre-wrap">Removes Error Text and Sounds from World of Warcraft Client - Lua with World of Warcraft API
+Information
+LUA program to remove unnecessary sounds from World of Warcraft game application
 
 Built With
-
-    *Lua
-
-    "<br>",
-
-    
-`,
-
-  `<a href="https://github.com/ah682/quote-generator" target="blank"><span class='underline'>Quote Generator</span>`,
-  "<br>",
-  `<pre class="indent-8 whitespace-pre-wrap">Generates an assortment of quotes
-
-Built With
-
-  *React JS
-  *CSS
-  *HTML5
-
-  "<br>",
-`,
+  * Lua
+</pre><br>`,
 ];
 
 help = [
